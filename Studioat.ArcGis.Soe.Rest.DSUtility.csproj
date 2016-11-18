@@ -108,6 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DSUtility.snk" />
+    <None Include="README.md" />
   </ItemGroup>
   <PropertyGroup>
     <ZipFileExtension>soe</ZipFileExtension>
