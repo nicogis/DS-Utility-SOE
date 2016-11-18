@@ -1,0 +1,12 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>arcgis</Value>
+      <Value>costruct</Value>
+      <Value>esri</Value>
+      <Value>init</Value>
+      <Value>json</Value>
+      <Value>soe</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+</StyleCopSettings>
