@@ -86,6 +86,6 @@ I have added data used for demo
 The solutions are checked 100% with stylecop and fxcop.
 
 
-[Live demo](http://sit.sistemigis.it/Samples/DynamicSegmentation)
+[Live demo](https://sit.sistemigis.it/Samples/DynamicSegmentation)
 
-[Video](http://www.youtube.com/watch?v=z2SIF5sIii0)
+[Video](https://www.youtube.com/watch?v=z2SIF5sIii0)
